@@ -1,0 +1,2763 @@
+{
+    "C01736": {
+        "La Défense (Grande Arche)": [
+            "40951"
+        ],
+        "Gare de Marchezais Broue": [
+            "411494"
+        ],
+        "Gare de Villiers Neauphle Pontchartrain": [
+            "41253"
+        ],
+        "Gare du Perray": [
+            "41226"
+        ],
+        "Gare de Sevres Rive Gauche": [
+            "41216"
+        ],
+        "Maule": [
+            "41159"
+        ],
+        "Gare de Sevres Ville d'Avray": [
+            "41177"
+        ],
+        "Orgerus Béhoust": [
+            "41236"
+        ],
+        "Gare de Clamart": [
+            "41206"
+        ],
+        "Gare de Saint-Cyr l'Ecole": [
+            "41222"
+        ],
+        "Gare de Nézel Aulnay": [
+            "41160"
+        ],
+        "Le Val d'Or": [
+            "41179"
+        ],
+        "Gare de Vanves - Malakoff": [
+            "41205"
+        ],
+        "Gare Montparnasse": [
+            "41203"
+        ],
+        "Gare de Meudon": [
+            "41214"
+        ],
+        "Gare de Puteaux": [
+            "41181"
+        ],
+        "Mareil sur Mauldre": [
+            "41158"
+        ],
+        "Les Essarts le Roi": [
+            "41225"
+        ],
+        "Gare de Mantes la Jolie": [
+            "41150"
+        ],
+        "Gare de Villepreux les Clayes": [
+            "41233"
+        ],
+        "Gare de Garancières la Queue": [
+            "41235"
+        ],
+        "Gare de Coignières": [
+            "41224"
+        ],
+        "Gare de Trappes": [
+            "41250"
+        ],
+        "Gare de Bellevue": [
+            "41215"
+        ],
+        "Gare de Viroflay Rive Gauche": [
+            "41221"
+        ],
+        "Gare de Beynes": [
+            "41231"
+        ],
+        "Gare de Tacoignières Richebourg": [
+            "41237"
+        ],
+        "Gare d'Épône Mézières": [
+            "41202"
+        ],
+        "Gare de Rambouillet": [
+            "41228"
+        ],
+        "Gare de Chaville Rive Gauche": [
+            "41220"
+        ],
+        "Gare de Suresnes Mont Valerien": [
+            "41180"
+        ],
+        "Gare Vaugirard": [
+            "41204"
+        ],
+        "Mantes Station": [
+            "41155"
+        ],
+        "Gare de Chaville Rive Droite": [
+            "41176"
+        ],
+        "Gare de Fontenay-le-Fleury": [
+            "41232"
+        ],
+        "Gare de Plaisir les Clayes": [
+            "41246"
+        ],
+        "Gare de Dreux": [
+            "411491"
+        ],
+        "Gare de Montfort l'Amaury Méré": [
+            "41254"
+        ],
+        "Gare de la Verrière": [
+            "41223"
+        ],
+        "Gare de Houdan": [
+            "41238"
+        ],
+        "Gare de Plaisir Grignon": [
+            "41234"
+        ],
+        "Gare de Versailles Chantiers": [
+            "41207"
+        ],
+        "Gare de Saint-Cloud": [
+            "41178"
+        ],
+        "Gare de Saint-Quentin en Yvelines": [
+            "41251"
+        ]
+    },
+    "C01742": {
+        "Châtelet - Les Halles": [
+            "473921",
+            "473993"
+        ],
+        "Saint-Maur Créteil": [
+            "412719"
+        ],
+        "Gare de Lyon": [
+            "474062",
+            "474065",
+            "41396"
+        ],
+        "Cergy Le Haut": [
+            "40918"
+        ],
+        "Le Vésinet - Le Pecq": [
+            "473910",
+            "473912",
+            "473909",
+            "479329"
+        ],
+        "Saint-Germain-en-Laye": [
+            "474017",
+            "40927",
+            "474015",
+            "474016"
+        ],
+        "Fontenay-sous-Bois": [
+            "473959",
+            "473958"
+        ],
+        "Bussy-Saint-Georges": [
+            "473961",
+            "412812",
+            "473960"
+        ],
+        "Rueil-Malmaison": [
+            "474023",
+            "474020",
+            "412796",
+            "474022",
+            "474021"
+        ],
+        "Lognes": [
+            "473930",
+            "412827",
+            "473933"
+        ],
+        "Noisy-le-Grand - Mont d'Est": [
+            "474032",
+            "474033",
+            "479183",
+            "474041"
+        ],
+        "Torcy": [
+            "474006",
+            "474008",
+            "474005",
+            "40944"
+        ],
+        "Bry-sur-Marne": [
+            "473974",
+            "473973"
+        ],
+        "Val d'Europe": [
+            "474004",
+            "40953",
+            "474003"
+        ],
+        "Saint-Maur - Créteil": [
+            "474014",
+            "474013"
+        ],
+        "Gare de Bry-Sur-Marne": [
+            "412822"
+        ],
+        "Le Parc de Saint-Maur": [
+            "473900",
+            "412718",
+            "473913"
+        ],
+        "Gare de Champigny": [
+            "412801"
+        ],
+        "Nogent-sur-Marne": [
+            "474045",
+            "474043"
+        ],
+        "Fontenay-Sous-Bois": [
+            "412810"
+        ],
+        "Vincennes": [
+            "412811",
+            "474000",
+            "473998"
+        ],
+        "Achères Grand Cormier": [
+            "411358"
+        ],
+        "Nanterre - Université": [
+            "474047",
+            "474053"
+        ],
+        "Nanterre - Préfecture": [
+            "474051",
+            "474052",
+            "474054",
+            "474057"
+        ],
+        "Gare de Cergy Préfecture": [
+            "411352"
+        ],
+        "Noisy-Champs": [
+            "412825"
+        ],
+        "Nanterre - Ville": [
+            "474049",
+            "474048"
+        ],
+        "Gare de Conflans-Fin d'Oise": [
+            "411350"
+        ],
+        "La Varenne-Chennevières": [
+            "40946"
+        ],
+        "Charles de Gaulle - Etoile": [
+            "473922",
+            "412807",
+            "473923"
+        ],
+        "Le Vésinet-Centre": [
+            "473911",
+            "473914"
+        ],
+        "Boissy-Saint-Léger": [
+            "473984",
+            "473988",
+            "473987"
+        ],
+        "La Varenne - Chennevières": [
+            "473929",
+            "473928",
+            "473939",
+            "473938"
+        ],
+        "Gare de Maisons Laffitte": [
+            "41527"
+        ],
+        "Nation": [
+            "473920",
+            "412808",
+            "473919"
+        ],
+        "Joinville-Le-Pont": [
+            "40932"
+        ],
+        "Joinville-le-Pont": [
+            "473950",
+            "473944",
+            "473951",
+            "473943"
+        ],
+        "Nanterre Université": [
+            "411356"
+        ],
+        "Auber": [
+            "473925",
+            "412806",
+            "473924"
+        ],
+        "Sucy Bonneuil": [
+            "412803"
+        ],
+        "Marne-la-Vallée - Chessy": [
+            "474064",
+            "474059"
+        ],
+        "Chatou - Croissy": [
+            "473965",
+            "473964"
+        ],
+        "Sucy - Bonneuil": [
+            "474010",
+            "474007"
+        ],
+        "Gare de Poissy": [
+            "411359"
+        ],
+        "Val de Fontenay": [
+            "474002",
+            "474001",
+            "41019"
+        ],
+        "Champigny": [
+            "473962",
+            "473963"
+        ],
+        "Nanterre Préfecture": [
+            "40916"
+        ],
+        "Noisiel": [
+            "474046",
+            "474038",
+            "412826"
+        ],
+        "Gare de Sartrouville": [
+            "411360"
+        ],
+        "La Défense (Grande Arche)": [
+            "40951"
+        ],
+        "Houilles - Carrières-sur-Seine": [
+            "411357"
+        ],
+        "Gare de Nogent-Sur-Marne": [
+            "412716"
+        ],
+        "Gare de Cergy Saint-Christophe": [
+            "411368"
+        ],
+        "Nanterre-Ville": [
+            "412798"
+        ],
+        "Neuilly-Plaisance": [
+            "474042",
+            "474050"
+        ],
+        "Gare de Neuville-Université": [
+            "411321"
+        ],
+        "Neully - Plaisance": [
+            "40929"
+        ],
+        "La Défense": [
+            "473934",
+            "473935",
+            "473936",
+            "473937"
+        ],
+        "Gare de Boissy-Saint-Léger": [
+            "412802"
+        ],
+        "Marne-La-Vallée Chessy": [
+            "412814"
+        ],
+        "Châtelet Les Halles": [
+            "412815"
+        ],
+        "Noisy-Le-Grand - Mont d'Est": [
+            "412823"
+        ],
+        "Noisy - Champs": [
+            "474039",
+            "474040"
+        ],
+        "Le Vésinet - Centre": [
+            "412800"
+        ],
+        "Chatou-Croissy": [
+            "412797"
+        ],
+        "Le Vésinet - Le-Pecq": [
+            "412861"
+        ],
+        "Achères Ville": [
+            "41528"
+        ]
+    },
+    "C01743": {
+        "Saint-Michel Notre-Dame": [
+            "473916",
+            "473915"
+        ],
+        "Orsay - Ville": [
+            "473904",
+            "473903",
+            "473901"
+        ],
+        "Palaiseau": [
+            "474037",
+            "474034",
+            "412848"
+        ],
+        "Laplace": [
+            "473926",
+            "412837",
+            "473927",
+            "473932"
+        ],
+        "Cité Universitaire": [
+            "473995",
+            "412839",
+            "473991"
+        ],
+        "Gare de La Plaine - Stade de France": [
+            "411369"
+        ],
+        "La Croix de Berny": [
+            "473949",
+            "473947"
+        ],
+        "Courcelle-sur-Yvette": [
+            "473966",
+            "473968"
+        ],
+        "Villepinte": [
+            "40962"
+        ],
+        "Fontenay-aux-Roses": [
+            "473953",
+            "473952"
+        ],
+        "Port Royal": [
+            "412818",
+            "473918",
+            "473917"
+        ],
+        "Le Guichet": [
+            "473898",
+            "412847",
+            "473902"
+        ],
+        "Fontaine Michalon": [
+            "473954",
+            "412835",
+            "473955"
+        ],
+        "Drancy": [
+            "411409"
+        ],
+        "Bagneux": [
+            "473986",
+            "412843",
+            "473981"
+        ],
+        "Antony": [
+            "412829",
+            "473980",
+            "473996"
+        ],
+        "Sevran - Livry": [
+            "411411"
+        ],
+        "Bourg-la-Reine": [
+            "473972",
+            "473971",
+            "473970",
+            "473969"
+        ],
+        "Gare du Nord": [
+            "41071"
+        ],
+        "La Hacquinière": [
+            "412850",
+            "473940",
+            "473942"
+        ],
+        "Massy - Verrières": [
+            "471007",
+            "471106"
+        ],
+        "Gif-sur-Yvette": [
+            "473945",
+            "473946"
+        ],
+        "Palaiseau - Villebon": [
+            "474031",
+            "474030"
+        ],
+        "Massy - Palaiseau": [
+            "474058",
+            "474056",
+            "474060",
+            "474061"
+        ],
+        "Parc de Sceaux": [
+            "474029",
+            "412831",
+            "474027"
+        ],
+        "Gentilly": [
+            "473957",
+            "473956",
+            "412838"
+        ],
+        "Bures-sur-Yvette": [
+            "473975",
+            "473978",
+            "412795"
+        ],
+        "La Courneuve-Aubervilliers": [
+            "40990"
+        ],
+        "Robinson": [
+            "474024",
+            "474025",
+            "474026",
+            "412832"
+        ],
+        "Gare de Gif-Sur-Yvette": [
+            "412851"
+        ],
+        "Les Baconnets": [
+            "412834",
+            "473905",
+            "473906"
+        ],
+        "Châtelet - Les Halles": [
+            "473989",
+            "473990"
+        ],
+        "Lozère": [
+            "473931",
+            "412846",
+            "474063"
+        ],
+        "Gare du Bourget": [
+            "411408"
+        ],
+        "Parc des Expositions": [
+            "411400"
+        ],
+        "Arcueil - Cachan": [
+            "473983",
+            "473979"
+        ],
+        "Le Blanc-Mesnil": [
+            "411401"
+        ],
+        "Luxembourg": [
+            "473907",
+            "412817",
+            "473908"
+        ],
+        "Denfert Rochereau": [
+            "412819"
+        ],
+        "Denfert-Rochereau": [
+            "473997",
+            "473994"
+        ],
+        "Saint-Rémy-lès-Chevreuse": [
+            "474009",
+            "474011",
+            "474012"
+        ],
+        "Courcelle-Sur-Yvette": [
+            "412845"
+        ],
+        "Fontenay-Aux-Roses": [
+            "412840"
+        ],
+        "Châtelet Les Halles": [
+            "412815"
+        ],
+        "Sevran-Beaudottes": [
+            "411413"
+        ],
+        "Palaiseau-Villebon": [
+            "412849"
+        ],
+        "Sceaux": [
+            "474018",
+            "474019",
+            "412841"
+        ],
+        "Mitry-Claye": [
+            "411402"
+        ],
+        "Saint-Rémy-Lès-Chevreuse": [
+            "412844"
+        ],
+        "Orsay-Ville": [
+            "412794"
+        ],
+        "Vert-Galant": [
+            "411412"
+        ],
+        "Aulnay-Sous-Bois": [
+            "411410"
+        ],
+        "Massy Verrières": [
+            "41193"
+        ],
+        "Aéroport CDG 2 TGV": [
+            "411295"
+        ],
+        "Villeparisis - Mitry-Le-Neuf": [
+            "411403"
+        ],
+        "La Croix de Berny Fresnes": [
+            "412830"
+        ],
+        "Bourg-La-Reine": [
+            "412842"
+        ],
+        "Aéroport Charles de Gaulle 1 (Terminal 3)": [
+            "411398"
+        ],
+        "Massy-Palaiseau": [
+            "412833"
+        ],
+        "Arcueil Cachan": [
+            "412836"
+        ]
+    },
+    "C01729": {
+        "Gare de Lagny Thorigny": [
+            "41051"
+        ],
+        "Magenta": [
+            "41126"
+        ],
+        "Gare du Raincy Villemomble": [
+            "41014"
+        ],
+        "Gare de Chelles Gournay": [
+            "41039"
+        ],
+        "Gare de Bondy": [
+            "41013"
+        ],
+        "Nanterre La Folie": [
+            "487016"
+        ],
+        "Gare de Gagny": [
+            "41015"
+        ],
+        "Meaux": [
+            "41038"
+        ],
+        "Gare de Chenay Gagny": [
+            "41016"
+        ],
+        "Gare de Rosa Parks": [
+            "420316"
+        ],
+        "Haussmann Saint-Lazare": [
+            "41127"
+        ],
+        "Vaires Torcy": [
+            "41049"
+        ],
+        "Noisy le Sec": [
+            "41012"
+        ],
+        "La Défense (Grande Arche)": [
+            "40951"
+        ],
+        "Gare de Roissy en Brie": [
+            "41033"
+        ],
+        "Gare des Yvris Noisy-le-Grand": [
+            "41023"
+        ],
+        "Gare de Villiers-sur-Marne Plessis Trévise": [
+            "41022"
+        ],
+        "Gare d'Emerainville Pontault-Combault": [
+            "41034"
+        ],
+        "Gare d'Esbly": [
+            "41052"
+        ],
+        "Gare de Tournan": [
+            "41043"
+        ],
+        "Gare de Gretz Armainvilliers": [
+            "41031"
+        ],
+        "Gare de Pantin": [
+            "41011"
+        ],
+        "Neuilly Porte Maillot": [
+            "41131"
+        ],
+        "Gare de Rosny Bois Perrier": [
+            "41017"
+        ],
+        "Gare de l'Est": [
+            "41010"
+        ],
+        "Val de Fontenay": [
+            "41019"
+        ],
+        "Gare des Boullereaux Champigny": [
+            "41021"
+        ],
+        "Gare de Rosny sous Bois": [
+            "41018"
+        ],
+        "Gare de Nogent le Perreux": [
+            "41020"
+        ],
+        "Ozoir-la-Ferrière": [
+            "41032"
+        ]
+    },
+    "C02370": {
+        "Orgerus Béhoust": [
+            "41236"
+        ],
+        "Gare de Clamart": [
+            "41206"
+        ],
+        "Gare de Viroflay Rive Gauche": [
+            "41221"
+        ],
+        "Gare de Villepreux les Clayes": [
+            "41233"
+        ],
+        "Gare de Chaville Rive Gauche": [
+            "41220"
+        ],
+        "Gare de Tacoignières Richebourg": [
+            "41237"
+        ],
+        "Gare de Montfort l'Amaury Méré": [
+            "41254"
+        ],
+        "Gare de Garancières la Queue": [
+            "41235"
+        ],
+        "Gare de Sevres Rive Gauche": [
+            "41216"
+        ],
+        "Gare de Plaisir Grignon": [
+            "41234"
+        ],
+        "Gare de Meudon": [
+            "41214"
+        ],
+        "Gare de Plaisir les Clayes": [
+            "41246"
+        ],
+        "Gare de Marchezais Broue": [
+            "411494"
+        ],
+        "Gare de Villiers Neauphle Pontchartrain": [
+            "41253"
+        ],
+        "Gare de Vanves - Malakoff": [
+            "41205"
+        ],
+        "Gare de Saint-Cyr l'Ecole": [
+            "41222"
+        ],
+        "Gare de Versailles Chantiers": [
+            "41207"
+        ],
+        "Gare de Dreux": [
+            "411491"
+        ],
+        "Gare de Houdan": [
+            "41238"
+        ],
+        "Gare de Bellevue": [
+            "41215"
+        ],
+        "Gare de Fontenay-le-Fleury": [
+            "41232"
+        ],
+        "Gare Montparnasse": [
+            "41203"
+        ],
+        "Gare Vaugirard": [
+            "41204"
+        ]
+    },
+    "C01737": {
+        "Gare de Montsoult Maffliers": [
+            "41107"
+        ],
+        "Gare de Domont": [
+            "41103"
+        ],
+        "Nointel Mours": [
+            "41125"
+        ],
+        "Gare de Bruyères sur Oise": [
+            "41104"
+        ],
+        "Gare de Persan Beaumont": [
+            "41105"
+        ],
+        "Gare d'Auvers sur Oise": [
+            "41112"
+        ],
+        "Gare de Saint-Denis": [
+            "411414"
+        ],
+        "Gare de Pontoise": [
+            "41091"
+        ],
+        "Gare de Saint-Leu d'Esserent": [
+            "411328"
+        ],
+        "Gare du Nord": [
+            "41071"
+        ],
+        "Gare d'Ermont Halte": [
+            "41116"
+        ],
+        "Gare de Champagne sur Oise": [
+            "41109"
+        ],
+        "Gare de Villaines": [
+            "41078"
+        ],
+        "Gare de Frépillon": [
+            "41122"
+        ],
+        "Gare de Seugy": [
+            "41079"
+        ],
+        "Gare de Montigny Beauchamp": [
+            "41088"
+        ],
+        "Gare de Chaponval": [
+            "41094"
+        ],
+        "Gare de Valmondois": [
+            "41111"
+        ],
+        "Gare de Bouffémont Moisselles": [
+            "41106"
+        ],
+        "Gare de Saint-Leu la Foret": [
+            "41118"
+        ],
+        "Gare de Belloy Saint-Martin": [
+            "41113"
+        ],
+        "Gare de Presles Courcelles": [
+            "41108"
+        ],
+        "Gare de Sarcelles Saint-Brice": [
+            "411423"
+        ],
+        "Gare de Saint-Ouen-l'Aumône Liesse": [
+            "41129"
+        ],
+        "Gare de Stade de France Saint-Denis": [
+            "411370"
+        ],
+        "Gare de Franconville le Plessis Bouchard": [
+            "41087"
+        ],
+        "Gare de Vaucelles": [
+            "41119"
+        ],
+        "Gare de Mériel": [
+            "41124"
+        ],
+        "Gare d'Epluches": [
+            "41092"
+        ],
+        "Gare de Pierrelaye": [
+            "41089"
+        ],
+        "Gare de Cernay": [
+            "41086"
+        ],
+        "Gare de Gros Noyer Saint-Prix": [
+            "41117"
+        ],
+        "Gare de Creil": [
+            "411439"
+        ],
+        "Gare de Luzarches": [
+            "41115"
+        ],
+        "Gare de la Barre Ormesson": [
+            "41074"
+        ],
+        "Gare d'Ecouen - Ézanville": [
+            "41102"
+        ],
+        "Gare de Pont Petit": [
+            "41093"
+        ],
+        "Gare d'Enghien-les-Bains": [
+            "41083"
+        ],
+        "Gare de Viarmes": [
+            "41114"
+        ],
+        "Gare d'Epinay Villetaneuse": [
+            "411415"
+        ],
+        "Gare d'Ermont Eaubonne": [
+            "41085"
+        ],
+        "Gare de Taverny": [
+            "41120"
+        ],
+        "Gare de Saint-Ouen-l'Aumône": [
+            "41090"
+        ],
+        "Gare de Boran sur Oise": [
+            "411331"
+        ],
+        "Précy sur Oise": [
+            "411325"
+        ],
+        "Gare de Deuil Montmagny": [
+            "411425"
+        ],
+        "Gare de Mery sur Oise": [
+            "41123"
+        ],
+        "Gare de Bessancourt": [
+            "41121"
+        ],
+        "Gare de l'Isle Adam Parmain": [
+            "41110"
+        ],
+        "Gare de Champ de Courses d'Enghien": [
+            "41084"
+        ],
+        "Gare de Groslay": [
+            "411424"
+        ]
+    },
+    "C02372": {
+        "Gare de Pierrefitte Stains": [
+            "411416"
+        ],
+        "Gare de Creil": [
+            "411439"
+        ],
+        "Gare de la Borne Blanche": [
+            "411417"
+        ],
+        "Garges Sarcelles": [
+            "411426"
+        ],
+        "Gare de Stade de France Saint-Denis": [
+            "411370"
+        ],
+        "Gare de Goussainville": [
+            "41099"
+        ],
+        "Gare des Noues": [
+            "41098"
+        ],
+        "Gare de Chantilly Gouvieux": [
+            "411427"
+        ],
+        "Gare de Beauvais": [
+            "411316"
+        ],
+        "Gare de Saint-Denis": [
+            "411414"
+        ],
+        "Gare du Nord": [
+            "41071"
+        ],
+        "Gare de Combs la Ville Quincy": [
+            "41366"
+        ],
+        "Gare de Survilliers Fosses": [
+            "41101"
+        ],
+        "Gare de Louvres": [
+            "41100"
+        ],
+        "Gare de Villiers-le-Bel Gonesse Arnouville": [
+            "41097"
+        ],
+        "Orry-la-Ville Coye la Forêt": [
+            "411420"
+        ]
+    },
+    "C01745": {
+        "Gare de Vernou-sur-Seine": [
+            "41383"
+        ],
+        "Gare de Héricy": [
+            "41380"
+        ],
+        "Gare de Livry sur Seine": [
+            "41377"
+        ],
+        "Gare de Vulaines-sur-Seine Samoreau": [
+            "41381"
+        ],
+        "Gare de Lieusaint Moissy": [
+            "41367"
+        ],
+        "Gare de Champigny sur Yonne": [
+            "411460"
+        ],
+        "Gare de Montereau": [
+            "41376"
+        ],
+        "Gare de Joigny": [
+            "411466"
+        ],
+        "Gare de Créteil Pompadour": [
+            "41530"
+        ],
+        "Gare de Saint-Fargeau": [
+            "41388"
+        ],
+        "Gare de Ponthierry Pringy": [
+            "41387"
+        ],
+        "Gare de Villeneuve-la-Guyard": [
+            "411463"
+        ],
+        "Montgeron Crosne": [
+            "41362"
+        ],
+        "Yerres": [
+            "41363"
+        ],
+        "Gare de Vosves": [
+            "41385"
+        ],
+        "Fontaine le Port": [
+            "41379"
+        ],
+        "Bercy": [
+            "41397"
+        ],
+        "Gare d'Essonnes Robinson": [
+            "41355"
+        ],
+        "Gare de la Grande Paroisse": [
+            "41384"
+        ],
+        "Gare de Chartrettes": [
+            "41378"
+        ],
+        "Gare de Bagneaux sur Loing": [
+            "41392"
+        ],
+        "Gare de Souppes": [
+            "41393"
+        ],
+        "Viry-Châtillon": [
+            "41340"
+        ],
+        "Gare du Plessis Chenet": [
+            "41357"
+        ],
+        "Gare de Bourron Marlotte Grez": [
+            "41390"
+        ],
+        "Gare de Thomery": [
+            "41373"
+        ],
+        "Gare du Mée": [
+            "41369"
+        ],
+        "Gare de Lyon": [
+            "41396"
+        ],
+        "Gare d'Évry Courcouronnes": [
+            "41346"
+        ],
+        "Orangis Bois de l'Epine": [
+            "41342"
+        ],
+        "Gare de Cesson": [
+            "41368"
+        ],
+        "Gare d'Étigny Véron": [
+            "411454"
+        ],
+        "Gare de Villeneuve-Saint-Georges": [
+            "41360"
+        ],
+        "Gare de Villeneuve Triage": [
+            "41359"
+        ],
+        "Gare de Champagne sur Seine": [
+            "41382"
+        ],
+        "Gare de Villeneuve-sur-Yonne": [
+            "411475"
+        ],
+        "Gare de Ferrières Fontenay": [
+            "411487"
+        ],
+        "Gare de Dordives": [
+            "41394"
+        ],
+        "Gare de Melun": [
+            "41361"
+        ],
+        "Gare de Sens": [
+            "411451"
+        ],
+        "Gare de Bois le Roi": [
+            "41371"
+        ],
+        "Gare de Moret Veneux les Sablons": [
+            "41374"
+        ],
+        "Gare de Savigny le Temple Nandy": [
+            "41370"
+        ],
+        "Gare de Boissise le Roi": [
+            "41386"
+        ],
+        "Gare d'Évry": [
+            "41344"
+        ],
+        "Gare de Juvisy": [
+            "41309"
+        ],
+        "Gare de Grand Bourg": [
+            "41343"
+        ],
+        "Gare de Montigny sur Loing": [
+            "41389"
+        ],
+        "Gare de Laroche Migennes": [
+            "411478"
+        ],
+        "Gare de Coudray Montceaux": [
+            "41358"
+        ],
+        "Vigneux-sur-Seine": [
+            "41339"
+        ],
+        "Gare de Combs la Ville Quincy": [
+            "41366"
+        ],
+        "Gare de Brunoy": [
+            "41364"
+        ],
+        "Gare de Grigny Centre": [
+            "41345"
+        ],
+        "Gare de Saint-Julien du Sault": [
+            "411472"
+        ],
+        "Gare du Bras de Fer": [
+            "41347"
+        ],
+        "Gare de Pont sur Yonne": [
+            "411457"
+        ],
+        "Gare de Corbeil Essonnes": [
+            "41336"
+        ],
+        "Gare de Saint-Mammès": [
+            "41375"
+        ],
+        "Gare du Vert de Maisons": [
+            "41338"
+        ],
+        "Gare de Boussy Saint-Antoine": [
+            "41365"
+        ],
+        "Nemours Saint-Pierre": [
+            "41391"
+        ],
+        "Gare de Maisons Alfort Alfortville": [
+            "41337"
+        ],
+        "Gare de Villabé": [
+            "41356"
+        ],
+        "Gare de Ris Orangis": [
+            "41341"
+        ],
+        "Gare de Montargis": [
+            "411481"
+        ],
+        "Gare de Fontainebleau Avon": [
+            "41372"
+        ]
+    },
+    "C02368": {
+        "Gare de Vosves": [
+            "41385"
+        ],
+        "Gare de Moret Veneux les Sablons": [
+            "41374"
+        ],
+        "Gare de Lyon": [
+            "41396"
+        ],
+        "Gare d'Évry Courcouronnes": [
+            "41346"
+        ],
+        "Gare d'Évry": [
+            "41344"
+        ],
+        "Gare de Saint-Fargeau": [
+            "41388"
+        ],
+        "Gare de Dordives": [
+            "41394"
+        ],
+        "Gare de Grand Bourg": [
+            "41343"
+        ],
+        "Bercy": [
+            "41397"
+        ],
+        "Gare de Montigny sur Loing": [
+            "41389"
+        ],
+        "Gare d'Essonnes Robinson": [
+            "41355"
+        ],
+        "Gare de Grigny Centre": [
+            "41345"
+        ],
+        "Gare de Boussy Saint-Antoine": [
+            "41365"
+        ],
+        "Gare de Villeneuve-Saint-Georges": [
+            "41360"
+        ],
+        "Gare de Créteil Pompadour": [
+            "41530"
+        ],
+        "Gare du Vert de Maisons": [
+            "41338"
+        ],
+        "Gare de Villabé": [
+            "41356"
+        ],
+        "Gare de Montargis": [
+            "411481"
+        ],
+        "Gare de Cesson": [
+            "41368"
+        ],
+        "Gare de Bourron Marlotte Grez": [
+            "41390"
+        ],
+        "Gare de Villeneuve Triage": [
+            "41359"
+        ],
+        "Gare du Mée": [
+            "41369"
+        ],
+        "Gare de Ferrières Fontenay": [
+            "411487"
+        ],
+        "Gare de Souppes": [
+            "41393"
+        ],
+        "Gare de Melun": [
+            "41361"
+        ],
+        "Gare du Plessis Chenet": [
+            "41357"
+        ],
+        "Gare de Bois le Roi": [
+            "41371"
+        ],
+        "Gare de Savigny le Temple Nandy": [
+            "41370"
+        ],
+        "Gare de Boissise le Roi": [
+            "41386"
+        ],
+        "Gare de Thomery": [
+            "41373"
+        ],
+        "Gare de Lieusaint Moissy": [
+            "41367"
+        ],
+        "Nemours Saint-Pierre": [
+            "41391"
+        ],
+        "Orangis Bois de l'Epine": [
+            "41342"
+        ],
+        "Gare de Ris Orangis": [
+            "41341"
+        ],
+        "Montgeron Crosne": [
+            "41362"
+        ],
+        "Gare de Corbeil Essonnes": [
+            "41336"
+        ],
+        "Yerres": [
+            "41363"
+        ],
+        "Gare de Combs la Ville Quincy": [
+            "41366"
+        ],
+        "Gare de Chartrettes": [
+            "41378"
+        ],
+        "Gare de Coudray Montceaux": [
+            "41358"
+        ],
+        "Gare de Juvisy": [
+            "41309"
+        ],
+        "Gare de Fontainebleau Avon": [
+            "41372"
+        ],
+        "Gare de Brunoy": [
+            "41364"
+        ],
+        "Gare du Bras de Fer": [
+            "41347"
+        ],
+        "Gare de Bagneaux sur Loing": [
+            "41392"
+        ],
+        "Gare de Maisons Alfort Alfortville": [
+            "41337"
+        ],
+        "Viry-Châtillon": [
+            "41340"
+        ],
+        "Gare de Ponthierry Pringy": [
+            "41387"
+        ],
+        "Vigneux-sur-Seine": [
+            "41339"
+        ]
+    },
+    "C01728": {
+        "Gare de Vosves": [
+            "41385"
+        ],
+        "Gare de Maisons Alfort Alfortville": [
+            "41337"
+        ],
+        "Gare de Melun": [
+            "41361"
+        ],
+        "Gare d'Essonnes Robinson": [
+            "41355"
+        ],
+        "Gare de Stade de France Saint-Denis": [
+            "411370"
+        ],
+        "Gare de Savigny le Temple Nandy": [
+            "41370"
+        ],
+        "Gare d'Évry Courcouronnes": [
+            "41346"
+        ],
+        "Gare de Boutigny": [
+            "41352"
+        ],
+        "Garges Sarcelles": [
+            "411426"
+        ],
+        "Gare de Boigneville": [
+            "41395"
+        ],
+        "Gare de Survilliers Fosses": [
+            "41101"
+        ],
+        "Montgeron Crosne": [
+            "41362"
+        ],
+        "Châtelet Les Halles": [
+            "412815"
+        ],
+        "Gare de Boissise le Roi": [
+            "41386"
+        ],
+        "Gare de Goussainville": [
+            "41099"
+        ],
+        "Gare du Vert de Maisons": [
+            "41338"
+        ],
+        "Gare de Ris Orangis": [
+            "41341"
+        ],
+        "Gare de Boussy Saint-Antoine": [
+            "41365"
+        ],
+        "Gare de Creil": [
+            "411439"
+        ],
+        "Orangis Bois de l'Epine": [
+            "41342"
+        ],
+        "Gare de Villiers-le-Bel Gonesse Arnouville": [
+            "41097"
+        ],
+        "Gare de Lyon": [
+            "41396"
+        ],
+        "Viry-Châtillon": [
+            "41340"
+        ],
+        "Gare du Plessis Chenet": [
+            "41357"
+        ],
+        "Mennecy": [
+            "41349"
+        ],
+        "Gare de Villeneuve Triage": [
+            "41359"
+        ],
+        "Gare de Villeneuve-Saint-Georges": [
+            "41360"
+        ],
+        "Gare du Mée": [
+            "41369"
+        ],
+        "Gare de Louvres": [
+            "41100"
+        ],
+        "Gare de Chantilly Gouvieux": [
+            "411427"
+        ],
+        "Gare d'Évry": [
+            "41344"
+        ],
+        "Gare de Cesson": [
+            "41368"
+        ],
+        "Gare de la Borne Blanche": [
+            "411417"
+        ],
+        "Gare de Combs la Ville Quincy": [
+            "41366"
+        ],
+        "Gare de la Ferté Alais": [
+            "41351"
+        ],
+        "Malesherbes": [
+            "411484"
+        ],
+        "Orry-la-Ville Coye la Forêt": [
+            "411420"
+        ],
+        "Gare de Moulin Galant": [
+            "41348"
+        ],
+        "Yerres": [
+            "41363"
+        ],
+        "Gare du Nord": [
+            "41071"
+        ],
+        "Gare de Brunoy": [
+            "41364"
+        ],
+        "Gare de Saint-Denis": [
+            "411414"
+        ],
+        "Gare de Coudray Montceaux": [
+            "41358"
+        ],
+        "Gare du Bras de Fer": [
+            "41347"
+        ],
+        "Gare de Corbeil Essonnes": [
+            "41336"
+        ],
+        "Gare de Ponthierry Pringy": [
+            "41387"
+        ],
+        "Gare de Buno Gironville": [
+            "41354"
+        ],
+        "Gare de Pierrefitte Stains": [
+            "411416"
+        ],
+        "Gare de Ballancourt": [
+            "41350"
+        ],
+        "Gare de Créteil Pompadour": [
+            "41530"
+        ],
+        "Gare de Saint-Fargeau": [
+            "41388"
+        ],
+        "Gare de Grand Bourg": [
+            "41343"
+        ],
+        "Gare de Lieusaint Moissy": [
+            "41367"
+        ],
+        "Gare des Noues": [
+            "41098"
+        ],
+        "Gare de Grigny Centre": [
+            "41345"
+        ],
+        "Maisse": [
+            "41353"
+        ],
+        "Gare de Villabé": [
+            "41356"
+        ],
+        "Vigneux-sur-Seine": [
+            "41339"
+        ],
+        "Gare de Juvisy": [
+            "41309"
+        ]
+    },
+    "C01740": {
+        "Gare de Cergy Saint-Christophe": [
+            "411368"
+        ],
+        "Viroflay Rive Droite": [
+            "41192"
+        ],
+        "Gare de Vaucresson": [
+            "41175"
+        ],
+        "Gare de Sartrouville": [
+            "411360"
+        ],
+        "Gare de Saint-Cloud": [
+            "41178"
+        ],
+        "Gare de Sevres Ville d'Avray": [
+            "41177"
+        ],
+        "Gare de Versailles Rive Droite": [
+            "41190"
+        ],
+        "Gare de Neuville-Université": [
+            "411321"
+        ],
+        "Gare de la Celle Saint-Cloud": [
+            "41182"
+        ],
+        "Houilles - Carrières-sur-Seine": [
+            "411357"
+        ],
+        "Le Val d'Or": [
+            "41179"
+        ],
+        "Gare de Cergy Préfecture": [
+            "411352"
+        ],
+        "Louveciennes": [
+            "41184"
+        ],
+        "Gare de Bougival": [
+            "41183"
+        ],
+        "Gare de Becon les Bruyères": [
+            "41171"
+        ],
+        "Gare de Montreuil": [
+            "41191"
+        ],
+        "Cergy Le Haut": [
+            "40918"
+        ],
+        "Gare de Garches Marnes la Coquette": [
+            "41174"
+        ],
+        "Gare d'Asnières": [
+            "41138"
+        ],
+        "Gare de Suresnes Mont Valerien": [
+            "41180"
+        ],
+        "Gare de Clichy Levallois": [
+            "41137"
+        ],
+        "Nanterre Université": [
+            "411356"
+        ],
+        "Achères Ville": [
+            "41528"
+        ],
+        "Gare des Vallées": [
+            "41196"
+        ],
+        "Gare Saint-Lazare": [
+            "41194"
+        ],
+        "Marly le Roi": [
+            "41185"
+        ],
+        "Gare de Maisons Laffitte": [
+            "41527"
+        ],
+        "La Défense (Grande Arche)": [
+            "40951"
+        ],
+        "Achères Grand Cormier": [
+            "411358"
+        ],
+        "Gare de Chaville Rive Droite": [
+            "41176"
+        ],
+        "Gare de la Garenne Colombes": [
+            "41195"
+        ],
+        "Gare de Conflans-Fin d'Oise": [
+            "411350"
+        ],
+        "Gare de Courbevoie": [
+            "41172"
+        ],
+        "Gare de Puteaux": [
+            "41181"
+        ],
+        "Pont Cardinet": [
+            "411351"
+        ],
+        "Gare de l'Étang la Ville": [
+            "41186"
+        ],
+        "Gare de Poissy": [
+            "411359"
+        ],
+        "Gare de Saint-Nom-la-Bretèche Forêt de Marly": [
+            "41187"
+        ]
+    },
+    "C01727": {
+        "Gare de Saint-Ouen-l'Aumône": [
+            "41090"
+        ],
+        "Invalides": [
+            "41208"
+        ],
+        "Pont de l'Alma": [
+            "41209"
+        ],
+        "Musée d'Orsay": [
+            "41334"
+        ],
+        "Gare de Chemin d'Antony": [
+            "41330"
+        ],
+        "Gare de la Verrière": [
+            "41223"
+        ],
+        "Gare de Lardy": [
+            "41301"
+        ],
+        "Gare de Franconville le Plessis Bouchard": [
+            "41087"
+        ],
+        "Gare de Montigny Beauchamp": [
+            "41088"
+        ],
+        "Gare de Vauboyen": [
+            "41241"
+        ],
+        "Gare de Chamarande": [
+            "41300"
+        ],
+        "Gare de Saint-Chéron": [
+            "41322"
+        ],
+        "Gare de Choisy le Roi": [
+            "41313"
+        ],
+        "Gare de Bièvres": [
+            "41242"
+        ],
+        "Gare d'Ivry-sur-Seine": [
+            "41315"
+        ],
+        "Gare de Saint-Cyr l'Ecole": [
+            "41222"
+        ],
+        "Gare de Saint-Ouen": [
+            "41076"
+        ],
+        "Gare de Villeneuve-le-Roi": [
+            "41312"
+        ],
+        "Gare de Dourdan la Foret": [
+            "41292"
+        ],
+        "Porte de Clichy": [
+            "41009"
+        ],
+        "Gare de la Norville Saint-Germain les Arpajon": [
+            "41317"
+        ],
+        "Gare de Saint-Martin d'Etampes": [
+            "41316"
+        ],
+        "Gare de Sermaise": [
+            "41323"
+        ],
+        "Gare d'Étampes": [
+            "41298"
+        ],
+        "Gare de Meudon Val Fleury": [
+            "41213"
+        ],
+        "Gare de Breuillet Bruyères le Chatel": [
+            "41320"
+        ],
+        "Gare d'Issy": [
+            "41212"
+        ],
+        "Bibliothèque François Mitterrand": [
+            "41128"
+        ],
+        "Saint-Michel Notre-Dame": [
+            "412816"
+        ],
+        "Gare de Vitry-sur-Seine": [
+            "41314"
+        ],
+        "Gare d'Austerlitz": [
+            "41333"
+        ],
+        "Gare de Pont de Rungis": [
+            "41326"
+        ],
+        "Gare de Pontoise": [
+            "41091"
+        ],
+        "Gare des Grésillons": [
+            "41082"
+        ],
+        "Gare de Rungis la Fraternelle": [
+            "41329"
+        ],
+        "Gare de Chaville Vélizy": [
+            "41219"
+        ],
+        "Gare d'Égly": [
+            "41319"
+        ],
+        "Gare des Ardoines": [
+            "41291"
+        ],
+        "Gare de Petit Jouy les Loges": [
+            "41239"
+        ],
+        "Gare de Pierrelaye": [
+            "41089"
+        ],
+        "Gare d'Arpajon": [
+            "41318"
+        ],
+        "Gare de Cernay": [
+            "41086"
+        ],
+        "Gare de Jouy en Josas": [
+            "41240"
+        ],
+        "Boulainvilliers": [
+            "41294"
+        ],
+        "Porchefontaine": [
+            "41218"
+        ],
+        "Gare d'Athis Mons": [
+            "41310"
+        ],
+        "Pereire Levallois": [
+            "411230"
+        ],
+        "Gare de Juvisy": [
+            "41309"
+        ],
+        "Gare de Trappes": [
+            "41250"
+        ],
+        "Gare de Longjumeau": [
+            "41245"
+        ],
+        "Gare de Saint-Michel-sur-Orge": [
+            "41305"
+        ],
+        "Orly Ville": [
+            "41327"
+        ],
+        "Avenue du Président Kennedy": [
+            "41295"
+        ],
+        "Gare de Versailles Chantiers": [
+            "41207"
+        ],
+        "Gare des Saules": [
+            "41328"
+        ],
+        "Epinay-sur-Orge": [
+            "41307"
+        ],
+        "Gare de Gennevilliers": [
+            "41075"
+        ],
+        "Gare de Gravigny Balizy": [
+            "41248"
+        ],
+        "Gare d'Epinay-sur-Seine": [
+            "41073"
+        ],
+        "Gare d'Issy Val-de-Seine": [
+            "41227"
+        ],
+        "Gare de Viroflay Rive Gauche": [
+            "41221"
+        ],
+        "Gare de Versailles Château - Rive Gauche": [
+            "41217"
+        ],
+        "Avenue Foch": [
+            "41132"
+        ],
+        "Gare de Savigny sur Orge": [
+            "41308"
+        ],
+        "Javel": [
+            "41211"
+        ],
+        "Gare de Bouray": [
+            "41302"
+        ],
+        "Neuilly Porte Maillot": [
+            "41131"
+        ],
+        "Gare de Chilly Mazarin": [
+            "41247"
+        ],
+        "Avenue Henri Martin": [
+            "41133"
+        ],
+        "Massy-Palaiseau": [
+            "412833"
+        ],
+        "Gare d'Ermont Eaubonne": [
+            "41085"
+        ],
+        "Pont du Garigliano - Hôpital Européen G. Pompidou": [
+            "41229"
+        ],
+        "Marolles en Hurepoix": [
+            "41303"
+        ],
+        "Gare de Saint-Gratien": [
+            "41095"
+        ],
+        "Ablon": [
+            "41311"
+        ],
+        "Massy Verrières": [
+            "41193"
+        ],
+        "Gare d'Étréchy": [
+            "41299"
+        ],
+        "Gare de Brétigny": [
+            "41304"
+        ],
+        "Gare de Petit Vaux": [
+            "41249"
+        ],
+        "Gare de Breuillet Village": [
+            "41321"
+        ],
+        "Gare de Sainte-Geneviève des Bois": [
+            "41306"
+        ],
+        "Gare d'Igny": [
+            "41243"
+        ],
+        "Gare de Dourdan": [
+            "41324"
+        ],
+        "Gare de Saint-Ouen-l'Aumône Liesse": [
+            "41129"
+        ],
+        "Champ de Mars Tour Eiffel": [
+            "41210"
+        ],
+        "Gare de Saint-Quentin en Yvelines": [
+            "41251"
+        ]
+    },
+    "C01739": {
+        "Gare de Liancourt Saint-Pierre": [
+            "411341"
+        ],
+        "Gare du Stade": [
+            "41136"
+        ],
+        "Gare de La Villetertre": [
+            "411347"
+        ],
+        "Gare de Rosny sur Seine": [
+            "41289"
+        ],
+        "Gare de Bonnières": [
+            "41290"
+        ],
+        "Gare de Trie-Château": [
+            "411337"
+        ],
+        "Gare Saint-Lazare": [
+            "41194"
+        ],
+        "Gare de Vaux sur Seine": [
+            "41163"
+        ],
+        "Gare de Pontoise": [
+            "41091"
+        ],
+        "Gare d'Us": [
+            "41142"
+        ],
+        "Gare de Saint-Ouen-l'Aumône Quartier de l'Église": [
+            "41146"
+        ],
+        "Gare d'Épône Mézières": [
+            "41202"
+        ],
+        "Gare de la Frette Montigny": [
+            "41168"
+        ],
+        "Gare de Chanteloup les Vignes": [
+            "41147"
+        ],
+        "Andrésy": [
+            "41149"
+        ],
+        "Gare d'Issou Porcheville": [
+            "41153"
+        ],
+        "Gare de Maurecourt": [
+            "41148"
+        ],
+        "Gare de Conflans-Fin d'Oise": [
+            "411350"
+        ],
+        "Villennes-sur-Seine": [
+            "41197"
+        ],
+        "Achères Grand Cormier": [
+            "411358"
+        ],
+        "Pont Cardinet": [
+            "411351"
+        ],
+        "Gare de Montgeroult Courcelles": [
+            "41141"
+        ],
+        "Gare de Val d'Argenteuil": [
+            "41161"
+        ],
+        "Gare de la Garenne Colombes": [
+            "41195"
+        ],
+        "Gare de Vernon": [
+            "41287"
+        ],
+        "Gare de Becon les Bruyères": [
+            "41171"
+        ],
+        "Gare d'Asnières": [
+            "41138"
+        ],
+        "Gare de Triel-sur-Seine": [
+            "41162"
+        ],
+        "Gare de Gargenville": [
+            "41152"
+        ],
+        "Gare de Colombes": [
+            "41135"
+        ],
+        "Gare de Poissy": [
+            "411359"
+        ],
+        "Gare de Mantes la Jolie": [
+            "41150"
+        ],
+        "Gare de Thun le Paradis": [
+            "41164"
+        ],
+        "Osny": [
+            "41139"
+        ],
+        "Gare de Sartrouville": [
+            "411360"
+        ],
+        "Gare d'Aubergenville Elisabethville": [
+            "41201"
+        ],
+        "Gare d'Eragny Neuville": [
+            "41145"
+        ],
+        "Achères Ville": [
+            "41528"
+        ],
+        "Gare de Bréval": [
+            "41157"
+        ],
+        "Gare de Limay": [
+            "41154"
+        ],
+        "Nanterre Université": [
+            "411356"
+        ],
+        "Gare de Sannois": [
+            "41096"
+        ],
+        "Gare de Santeuil le Perchay": [
+            "41143"
+        ],
+        "Gare des Clairières de Verneuil": [
+            "41199"
+        ],
+        "Gare de Chars": [
+            "41144"
+        ],
+        "Gare des Vallées": [
+            "41196"
+        ],
+        "Gare de Gisors": [
+            "411340"
+        ],
+        "Houilles - Carrières-sur-Seine": [
+            "411357"
+        ],
+        "Gare d'Ermont Eaubonne": [
+            "41085"
+        ],
+        "Gare de Clichy Levallois": [
+            "41137"
+        ],
+        "Gare de Chaumont en Vexin": [
+            "411344"
+        ],
+        "Mantes Station": [
+            "41155"
+        ],
+        "Gare de Conflans Sainte-Honorine": [
+            "41170"
+        ],
+        "Gare des Mureaux": [
+            "41200"
+        ],
+        "Gare de Bois Colombes": [
+            "41134"
+        ],
+        "Gare de Juziers": [
+            "41151"
+        ],
+        "Gare de Cormeilles en Parisis": [
+            "41167"
+        ],
+        "Argenteuil": [
+            "41166"
+        ],
+        "Gare de Boissy l'Aillerie": [
+            "41140"
+        ],
+        "Gare de Herblay": [
+            "41169"
+        ],
+        "Gare de Vernouillet Verneuil": [
+            "41198"
+        ],
+        "Gare de Meulan Hardricourt": [
+            "41165"
+        ],
+        "Gare de Maisons Laffitte": [
+            "41527"
+        ]
+    },
+    "C01731": {
+        "Gare de Souppes": [
+            "41393"
+        ],
+        "Viry-Châtillon": [
+            "41340"
+        ],
+        "Gare du Plessis Chenet": [
+            "41357"
+        ],
+        "Gare de Chartrettes": [
+            "41378"
+        ],
+        "Gare de Villeneuve Triage": [
+            "41359"
+        ],
+        "Gare de Villeneuve-Saint-Georges": [
+            "41360"
+        ],
+        "Gare d'Évry": [
+            "41344"
+        ],
+        "Gare de Vernou-sur-Seine": [
+            "41383"
+        ],
+        "Gare de Combs la Ville Quincy": [
+            "41366"
+        ],
+        "Gare d'Essonnes Robinson": [
+            "41355"
+        ],
+        "Gare de Grigny Centre": [
+            "41345"
+        ],
+        "Gare de Bagneaux sur Loing": [
+            "41392"
+        ],
+        "Gare de Thomery": [
+            "41373"
+        ],
+        "Nemours Saint-Pierre": [
+            "41391"
+        ],
+        "Gare d'Évry Courcouronnes": [
+            "41346"
+        ],
+        "Orangis Bois de l'Epine": [
+            "41342"
+        ],
+        "Gare de Juvisy": [
+            "41309"
+        ],
+        "Gare du Bras de Fer": [
+            "41347"
+        ],
+        "Gare de Savigny le Temple Nandy": [
+            "41370"
+        ],
+        "Gare de Bourron Marlotte Grez": [
+            "41390"
+        ],
+        "Gare de Vulaines-sur-Seine Samoreau": [
+            "41381"
+        ],
+        "Gare de Champagne sur Seine": [
+            "41382"
+        ],
+        "Gare de Ferrières Fontenay": [
+            "411487"
+        ],
+        "Gare de Maisons Alfort Alfortville": [
+            "41337"
+        ],
+        "Gare de Bois le Roi": [
+            "41371"
+        ],
+        "Gare de Moret Veneux les Sablons": [
+            "41374"
+        ],
+        "Gare de Héricy": [
+            "41380"
+        ],
+        "Gare de Lieusaint Moissy": [
+            "41367"
+        ],
+        "Gare de Créteil Pompadour": [
+            "41530"
+        ],
+        "Gare du Vert de Maisons": [
+            "41338"
+        ],
+        "Gare de Dordives": [
+            "41394"
+        ],
+        "Gare de Grand Bourg": [
+            "41343"
+        ],
+        "Gare de Fontainebleau Avon": [
+            "41372"
+        ],
+        "Gare de Montigny sur Loing": [
+            "41389"
+        ],
+        "Gare de Villabé": [
+            "41356"
+        ],
+        "Gare de Ris Orangis": [
+            "41341"
+        ],
+        "Gare de Ponthierry Pringy": [
+            "41387"
+        ],
+        "Yerres": [
+            "41363"
+        ],
+        "Gare de Brunoy": [
+            "41364"
+        ],
+        "Gare de Corbeil Essonnes": [
+            "41336"
+        ],
+        "Gare de Livry sur Seine": [
+            "41377"
+        ],
+        "Fontaine le Port": [
+            "41379"
+        ],
+        "Gare de Montargis": [
+            "411481"
+        ],
+        "Vigneux-sur-Seine": [
+            "41339"
+        ],
+        "Gare de Cesson": [
+            "41368"
+        ],
+        "Gare de Vosves": [
+            "41385"
+        ],
+        "Gare de Coudray Montceaux": [
+            "41358"
+        ],
+        "Montgeron Crosne": [
+            "41362"
+        ],
+        "Gare de Saint-Mammès": [
+            "41375"
+        ],
+        "Gare de Boissise le Roi": [
+            "41386"
+        ],
+        "Gare de Saint-Fargeau": [
+            "41388"
+        ],
+        "Gare de Boussy Saint-Antoine": [
+            "41365"
+        ],
+        "Gare du Mée": [
+            "41369"
+        ],
+        "Gare de Montereau": [
+            "41376"
+        ],
+        "Gare de Lyon": [
+            "41396"
+        ],
+        "Gare de la Grande Paroisse": [
+            "41384"
+        ],
+        "Gare de Melun": [
+            "41361"
+        ]
+    },
+    "C01857": {
+        "Gare de Sermaise": [
+            "41323"
+        ],
+        "Gare de Lardy": [
+            "41301"
+        ],
+        "Gare de Voves": [
+            "411448"
+        ],
+        "Gare de Breuillet Bruyères le Chatel": [
+            "41320"
+        ],
+        "Gare de Breuillet Village": [
+            "41321"
+        ],
+        "Gare des Ardoines": [
+            "41291"
+        ],
+        "Gare de Choisy le Roi": [
+            "41313"
+        ],
+        "Epinay-sur-Orge": [
+            "41307"
+        ],
+        "Marolles en Hurepoix": [
+            "41303"
+        ],
+        "Gare de Savigny sur Orge": [
+            "41308"
+        ],
+        "Gare de Dourdan la Foret": [
+            "41292"
+        ],
+        "Gare de Bonneval": [
+            "411445"
+        ],
+        "Gare d'Égly": [
+            "41319"
+        ],
+        "Gare de Guillerval": [
+            "41297"
+        ],
+        "Bibliothèque François Mitterrand": [
+            "41128"
+        ],
+        "Gare d'Ivry-sur-Seine": [
+            "41315"
+        ],
+        "Gare de la Norville Saint-Germain les Arpajon": [
+            "41317"
+        ],
+        "Gare de Châteaudun": [
+            "411442"
+        ],
+        "Ablon": [
+            "41311"
+        ],
+        "Gare d'Étampes": [
+            "41298"
+        ],
+        "Gare de Saint-Chéron": [
+            "41322"
+        ],
+        "Gare de Brétigny": [
+            "41304"
+        ],
+        "Gare de Sainte-Geneviève des Bois": [
+            "41306"
+        ],
+        "Gare d'Arpajon": [
+            "41318"
+        ],
+        "Gare d'Athis Mons": [
+            "41310"
+        ],
+        "Gare d'Étréchy": [
+            "41299"
+        ],
+        "Gare de Chamarande": [
+            "41300"
+        ],
+        "Gare de Juvisy": [
+            "41309"
+        ],
+        "Gare de Saint-Michel-sur-Orge": [
+            "41305"
+        ],
+        "Gare d'Austerlitz": [
+            "41333"
+        ],
+        "Gare de Villeneuve-le-Roi": [
+            "41312"
+        ],
+        "Gare d'Auneau": [
+            "41325"
+        ],
+        "Gare de Monnerville": [
+            "41296"
+        ],
+        "Gare d'Angerville": [
+            "41293"
+        ],
+        "Gare de Dourdan": [
+            "41324"
+        ],
+        "Gare de Vitry-sur-Seine": [
+            "41314"
+        ],
+        "Gare de Bouray": [
+            "41302"
+        ]
+    },
+    "C01738": {
+        "Villeparisis - Mitry-Le-Neuf": [
+            "411403"
+        ],
+        "Sevran - Livry": [
+            "411411"
+        ],
+        "Le Blanc-Mesnil": [
+            "411401"
+        ],
+        "Mitry-Claye": [
+            "411402"
+        ],
+        "Gare du Plessis Belleville": [
+            "411404"
+        ],
+        "Ormoy-Villers": [
+            "411386"
+        ],
+        "Gare de Crepy en Valois": [
+            "411395"
+        ],
+        "Gare de La Plaine - Stade de France": [
+            "411369"
+        ],
+        "La Courneuve-Aubervilliers": [
+            "40990"
+        ],
+        "Gare de Thieux Nantouillet": [
+            "41081"
+        ],
+        "Aulnay-Sous-Bois": [
+            "411410"
+        ],
+        "Drancy": [
+            "411409"
+        ],
+        "Nanteuil le Haudoin": [
+            "411389"
+        ],
+        "Vert-Galant": [
+            "411412"
+        ],
+        "Gare de Compans": [
+            "41080"
+        ],
+        "Gare du Nord": [
+            "41071"
+        ],
+        "Gare de Dammartin Juilly Saint-Mard": [
+            "41077"
+        ],
+        "Gare du Bourget": [
+            "411408"
+        ]
+    },
+    "C01730": {
+        "Gare des Yvris Noisy-le-Grand": [
+            "41023"
+        ],
+        "Gare de Tournan": [
+            "41043"
+        ],
+        "Gare d'Emerainville Pontault-Combault": [
+            "41034"
+        ],
+        "Gare de Chézy sur Marne": [
+            "411380"
+        ],
+        "Gare de Lizy sur Ourcq": [
+            "41065"
+        ],
+        "Meaux": [
+            "41038"
+        ],
+        "Gare de Couilly Saint-Germain Quincy": [
+            "41067"
+        ],
+        "Gare de Mortcerf": [
+            "41045"
+        ],
+        "Gare de Rosny sous Bois": [
+            "41018"
+        ],
+        "Gare des Boullereaux Champigny": [
+            "41021"
+        ],
+        "Gare de Faremoutiers Pommeuse": [
+            "41047"
+        ],
+        "Gare de la Ferté sous Jouarre": [
+            "41062"
+        ],
+        "Gare de l'Est": [
+            "41010"
+        ],
+        "Gare de Rosa Parks": [
+            "420316"
+        ],
+        "Gare de Mouroux": [
+            "41048"
+        ],
+        "Gare de Crouy sur Ourcq": [
+            "41066"
+        ],
+        "Gare de Bondy": [
+            "41013"
+        ],
+        "Gare de Guérard la Celle sur Morin": [
+            "41046"
+        ],
+        "Gare de Château Thierry": [
+            "411377"
+        ],
+        "Val de Fontenay": [
+            "41019"
+        ],
+        "Gare de Trilport": [
+            "41060"
+        ],
+        "Gare de Nogent l'Artaud Charly": [
+            "411383"
+        ],
+        "Gare de Villiers Montbarbin": [
+            "41068"
+        ],
+        "Gare de Villiers-sur-Marne Plessis Trévise": [
+            "41022"
+        ],
+        "Mareuil sur Ourcq": [
+            "411374"
+        ],
+        "Gare de Gretz Armainvilliers": [
+            "41031"
+        ],
+        "Gare d'Esbly": [
+            "41052"
+        ],
+        "Gare de Mormant": [
+            "41036"
+        ],
+        "Gare d'Isles Armentières Congis": [
+            "41064"
+        ],
+        "Gare de Montry Condé": [
+            "41059"
+        ],
+        "Gare de Lagny Thorigny": [
+            "41051"
+        ],
+        "Gare de Pantin": [
+            "41011"
+        ],
+        "Gare de Nogent le Perreux": [
+            "41020"
+        ],
+        "Ozoir-la-Ferrière": [
+            "41032"
+        ],
+        "Gare de Longueville": [
+            "41040"
+        ],
+        "Vaires Torcy": [
+            "41049"
+        ],
+        "Gare du Raincy Villemomble": [
+            "41014"
+        ],
+        "Nanteuil Saacy": [
+            "41063"
+        ],
+        "Gare de Chelles Gournay": [
+            "41039"
+        ],
+        "Noisy le Sec": [
+            "41012"
+        ],
+        "Gare de la Ferté Milon": [
+            "411371"
+        ],
+        "Gare de Roissy en Brie": [
+            "41033"
+        ],
+        "Gare de Champbenoist Poigny": [
+            "41030"
+        ],
+        "Gare de Gagny": [
+            "41015"
+        ],
+        "Gare de Nangis": [
+            "41037"
+        ],
+        "Gare de Crécy la Chapelle": [
+            "41069"
+        ],
+        "Gare de Changis Saint-Jean": [
+            "41061"
+        ],
+        "Gare de Provins": [
+            "41041"
+        ],
+        "Gare de Chenay Gagny": [
+            "41016"
+        ],
+        "Marles en Brie": [
+            "41044"
+        ],
+        "Gare de Coulommiers": [
+            "41050"
+        ],
+        "Gare de Rosny Bois Perrier": [
+            "41017"
+        ],
+        "Gare de Sainte-Colombe Septveilles": [
+            "41042"
+        ],
+        "Gare de Verneuil l'Étang": [
+            "41035"
+        ]
+    },
+    "C01747": {
+        "Gare d'Esbly": [
+            "41052"
+        ],
+        "Gare de Provins": [
+            "41041"
+        ],
+        "Gare de l'Est": [
+            "41010"
+        ],
+        "Gare de Pantin": [
+            "41011"
+        ],
+        "Gare de Nogent le Perreux": [
+            "41020"
+        ],
+        "Ozoir-la-Ferrière": [
+            "41032"
+        ],
+        "Noisy le Sec": [
+            "41012"
+        ],
+        "Gare de Chelles Gournay": [
+            "41039"
+        ],
+        "Gare de Gagny": [
+            "41015"
+        ],
+        "Gare de Nogent l'Artaud Charly": [
+            "411383"
+        ],
+        "Gare d'Emerainville Pontault-Combault": [
+            "41034"
+        ],
+        "Gare de Verneuil l'Étang": [
+            "41035"
+        ],
+        "Gare de Bondy": [
+            "41013"
+        ],
+        "Gare de Nangis": [
+            "41037"
+        ],
+        "Gare de Trilport": [
+            "41060"
+        ],
+        "Gare de Villiers-sur-Marne Plessis Trévise": [
+            "41022"
+        ],
+        "Gare de Rosny sous Bois": [
+            "41018"
+        ],
+        "Gare de Chenay Gagny": [
+            "41016"
+        ],
+        "Val de Fontenay": [
+            "41019"
+        ],
+        "Gare de la Ferté sous Jouarre": [
+            "41062"
+        ],
+        "Gare de Gretz Armainvilliers": [
+            "41031"
+        ],
+        "Gare des Boullereaux Champigny": [
+            "41021"
+        ],
+        "Gare de Rosa Parks": [
+            "420316"
+        ],
+        "Gare de Lagny Thorigny": [
+            "41051"
+        ],
+        "Gare de Chézy sur Marne": [
+            "411380"
+        ],
+        "Gare de Changis Saint-Jean": [
+            "41061"
+        ],
+        "Gare de Rosny Bois Perrier": [
+            "41017"
+        ],
+        "Gare de Roissy en Brie": [
+            "41033"
+        ],
+        "Gare du Raincy Villemomble": [
+            "41014"
+        ],
+        "Gare de Longueville": [
+            "41040"
+        ],
+        "Vaires Torcy": [
+            "41049"
+        ],
+        "Gare de Château Thierry": [
+            "411377"
+        ],
+        "Gare de Mormant": [
+            "41036"
+        ],
+        "Nanteuil Saacy": [
+            "41063"
+        ],
+        "Gare des Yvris Noisy-le-Grand": [
+            "41023"
+        ],
+        "Meaux": [
+            "41038"
+        ]
+    },
+    "C01741": {
+        "Gare de Chaville Rive Droite": [
+            "41176"
+        ],
+        "Gare de Versailles Chantiers": [
+            "41207"
+        ],
+        "Gare de Suresnes Mont Valerien": [
+            "41180"
+        ],
+        "Gare de Puteaux": [
+            "41181"
+        ],
+        "Le Val d'Or": [
+            "41179"
+        ],
+        "Gare de la Verrière": [
+            "41223"
+        ],
+        "Gare de Trappes": [
+            "41250"
+        ],
+        "Gare de Saint-Quentin en Yvelines": [
+            "41251"
+        ],
+        "Gare de Saint-Cloud": [
+            "41178"
+        ],
+        "Gare de Saint-Cyr l'Ecole": [
+            "41222"
+        ],
+        "Gare de Sevres Ville d'Avray": [
+            "41177"
+        ],
+        "La Défense (Grande Arche)": [
+            "40951"
+        ]
+    }
+}
