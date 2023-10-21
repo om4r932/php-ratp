@@ -28,20 +28,20 @@ for line in lines:
             x = arret_tr["line"].split(":")[-2]
             if x == line["id_line"] and line["name_line"] not in full_lines.keys():
                 full_lines["tram"][line["name_line"]] = line["id_line"]
+for mode in full_lines:
+    for arret_tr in datatr:
+        lineId = arret_tr["line"].split(":")[-2]
+        stopId = arret_tr["stopPointRef"].split(":")[-2]
+        stopName = arret_tr["stopName"]
+        try:
+            if lineId in full_lines[mode].values() and lineId not in full_stops:
+                full_stops[lineId] = {}
+            if stopName not in full_stops[lineId] and lineId in full_lines[mode].values():
+                full_stops[lineId][stopName] = [stopId]
+            if stopName in full_stops[lineId] and lineId in full_lines[mode].values() and stopId not in full_stops[lineId][stopName]:
+                full_stops[lineId][stopName].append(stopId)
+        except:
+            continue
 
-for arret_tr in datatr:
-    lineId = arret_tr["line"].split(":")[-2]
-    stopId = arret_tr["stopPointRef"].split(":")[-2]
-    stopName = arret_tr["stopName"]
-    try:
-        if lineId in full_lines.values() and lineId not in full_stops:
-            full_stops[lineId] = {}
-        if stopName not in full_stops[lineId] and lineId in full_lines.values():
-            full_stops[lineId][stopName] = [stopId]
-        else:
-            full_stops[lineId][stopName].append(stopId)
-    except:
-        continue
-    
 json.dump(full_lines, open("data/lines.json", "w", encoding="utf-8"), ensure_ascii=False, indent=4)
 json.dump(full_stops, open("data/stops.json", "w", encoding="utf-8"), ensure_ascii=False, indent=4)
