@@ -3,7 +3,14 @@
         $utc = new DateTime($utcDate, new DateTimeZone('UTC'));
         $now = new DateTime("now", new DateTimeZone("Europe/Paris"));
         $intervalle = $utc->diff($now);
-        return $intervalle->format("%I min");
+        if(
+            $intervalle->h == 0){return $intervalle->format("%I min");
+        } else {
+            $min = 0;
+            $min += $intervalle->i;
+            $min += ($intervalle->h * 60);
+            return $min . " min";
+        }
     }
 
     function get_type(){
@@ -47,6 +54,7 @@
 
     function curl_get_horaire($ref, $lineId){
         $tokens = json_decode(file_get_contents("tokens.json"), true);
+        $lines = json_decode(file_get_contents("data/lines.json"), true);
         $url = "https://prim.iledefrance-mobilites.fr/marketplace/stop-monitoring?MonitoringRef=$ref&LineRef=$lineId";
         $request = curl_init($url);
         curl_setopt($request, CURLOPT_RETURNTRANSFER, true);
@@ -65,11 +73,12 @@
             $para = [];
             foreach($general as $i => $visits){
                 $visit = $visits['MonitoredVehicleJourney'];
-                $p = "[" . (isset($visit["OperatorRef"]) && array_key_exists("value", $visit['OperatorRef']) && !str_contains($visit['OperatorRef']['value'], "SNCF") ? explode(":", explode(".", $visit['OperatorRef']['value'])[2])[0] : (isset($visit["JourneyNote"][0]['value']) ? $visit['JourneyNote'][0]['value'] : "")) . "]" . $visit['MonitoredCall']['StopPointName'][0]['value'] . "(" . (isset($visit["DirectionName"][0]["value"]) ? $visit['DirectionName'][0]['value'] : $visit['DestinationName'][0]['value']). ")";
+                $p = "[" . (isset($visit["JourneyNote"][0]['value']) ? $visit['JourneyNote'][0]['value'] : array_search($_POST['line'], $lines[$_POST['type']])) . "]" . $visit['MonitoredCall']['StopPointName'][0]['value'] . "(" . $visit['DestinationName'][0]['value']. ")";
                 !array_key_exists($p, $para) ? $para[$p] = [] : $para[$p][] = timeRemaining((isset($visit['MonitoredCall']['ExpectedDepartureTime']) ? $visit['MonitoredCall']['ExpectedDepartureTime'] : $visit['MonitoredCall']['ExpectedArrivalTime']));
             }
             foreach($para as $details => $times){
-                echo "<p>" . $details . implode(" | ", $times) . "</p>";
+				if(count($times) != 0){
+                echo "<p>" . $details . implode(" | ", $times) . "</p>";}
             }
         }
 
